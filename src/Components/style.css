@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.main-home {
+  justify-content: center;
+  align-items: center;
+  padding-top: 230px;
+}
+.footer {
+  background-color: #1976d2;
+}
+.foter-color {
+  color: #1976d2;
+}
